@@ -1,5 +1,6 @@
 README.md
 setup.py
+ReleaseRepo/__init__.py
 ReleaseRepo.egg-info/PKG-INFO
 ReleaseRepo.egg-info/SOURCES.txt
 ReleaseRepo.egg-info/dependency_links.txt
